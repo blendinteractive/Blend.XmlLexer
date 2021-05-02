@@ -1,0 +1,26 @@
+﻿<root>
+  <contact id="6db061b4-e11a-4e7e-927a-7c8a3b8d31bc" externalid="0a735c79-49cc-4bd7-acf4-b85cd221ad90">
+    <name>
+      <first>Steve</first>
+      <last>Stevenson</last>
+    </name>
+    <email>test@example.com &lt;Steve Stevenson&gt;</email>
+    <address type="home">
+      <street>123 Test Ave</street>
+      <city>Testington</city>
+      <state>TS</state>
+      <zip>00000</zip>
+    </address>
+    <address type="work">
+      <street>321 Example St</street>
+      <city>Exampleville</city>
+      <state>EX</state>
+      <zip>55555</zip>
+    </address>
+    <notes><![CDATA[<p>Notes about Steve.</p>]]></notes>
+  </contact>
+  <site>
+    <url>https://www.example.com/</url>
+    <notes>This is only here to ensure non-matching nodes do not get processed.</notes>
+  </site>
+</root>
